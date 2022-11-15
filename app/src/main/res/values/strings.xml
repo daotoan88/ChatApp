@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Message Fake</string>
+    <string name="welcome_back">Welcome back</string>
+    <string name="login_to_continute">Login to continute</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="sig_in">Sign in</string>
+    <string name="creat_new_acount">Creat new account</string>
+    <string name="add_image">Add image</string>
+    <string name="name">Name</string>
+    <string name="confirm_password">Cofirm password</string>
+    <string name="sig_up">Sign up</string>
+    <string name="select_user">Select User</string>
+    <string name="type_a_message">type a message</string>
+</resources>
